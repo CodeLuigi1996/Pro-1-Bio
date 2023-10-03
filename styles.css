@@ -21,7 +21,7 @@ body {
     
 }
 .null, .about, .contact {
-    
+    margin: 40px;
     font-size: 30px;
     font-weight: bold;
     border-style: solid;
