@@ -21,7 +21,7 @@ body {
     
 }
 .null, .about, .contact, .cv, .project {
-    margin: 40px;
+    margin: 20px;
     font-size: 30px;
     font-weight: bold;
     border-style: solid;
