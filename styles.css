@@ -18,10 +18,13 @@ body {
 #nav {
     padding: 20px;
     text-align: center;
+    
 }
 .null, .about, .contact {
     padding-left: 30px;
     font-size: 30px;
     font-weight: bold;
+    border-style: solid;
+    
     
 }
