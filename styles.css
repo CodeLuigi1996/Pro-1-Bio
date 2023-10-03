@@ -22,5 +22,6 @@ body {
 .null, .about, .contact {
     padding-left: 30px;
     font-size: 30px;
+    font-weight: bold;
     
 }
