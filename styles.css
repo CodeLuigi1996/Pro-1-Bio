@@ -17,7 +17,9 @@ body {
 }
 .nav {
     padding: 20px;
+    text-align: center;
 }
 .null, .about, .contact {
     padding-left: 30px;
+    
 }
