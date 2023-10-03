@@ -20,7 +20,7 @@ body {
     text-align: center;
     
 }
-.null, .about, .contact {
+.null, .about, .contact, .cv, .project {
     margin: 40px;
     font-size: 30px;
     font-weight: bold;
