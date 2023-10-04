@@ -6,11 +6,12 @@
     padding-right: 10px;
     padding-left: 10px;
     background-color: li; */
-
+/* body content area */
 body {
     background: rgb(9,121,120);
     background: linear-gradient(90deg, rgba(9,121,120,1) 16%, rgba(0,255,201,1) 86%);
 }
+/* id header */
 #header {
     text-align: center;
     padding-top: 10px;
@@ -19,6 +20,7 @@ body {
     text-decoration: underline;
     color: darkblue;
 }
+/* id nav */
 #nav {
     padding: 20px;
     text-align: center;
@@ -26,6 +28,7 @@ body {
     
     
 }
+/* text within nav */
 .index, .about, .contact, .cv, .project {
     margin: 20px;
     font-size: 30px;
@@ -36,6 +39,24 @@ body {
     text-decoration: none;
     
 }
+/* Selected link */
 a:active {
     color: purple;
+    
+}
+/* visited link */
+a:visited {
+    color: purple
+}
+
+
+/* unvisited link */
+a:link {
+    color: lightblue;
+}
+
+
+/* mouse over link */
+a:hover {
+    color: lightgreen;
 }
