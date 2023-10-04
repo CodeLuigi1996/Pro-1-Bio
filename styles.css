@@ -29,7 +29,7 @@ body {
     
 }
 /* text within nav */
-.index, .about, .contact, .cv, .project {
+.index, .about, .contact, .project {
     margin: 20px;
     font-size: 30px;
     font-weight: bold;
@@ -38,6 +38,10 @@ body {
     border-radius: 50%;
     text-decoration: none;
     
+}
+/* unvisited link */
+a:link {
+    color: lightblue;
 }
 /* Selected link */
 a:active {
@@ -48,13 +52,6 @@ a:active {
 a:visited {
     color: purple
 }
-
-
-/* unvisited link */
-a:link {
-    color: lightblue;
-}
-
 
 /* mouse over link */
 a:hover {
