@@ -21,6 +21,7 @@ body {
     padding: 20px;
     text-align: center;
     
+    
 }
 .null, .about, .contact, .cv, .project {
     margin: 20px;
@@ -28,6 +29,7 @@ body {
     font-weight: bold;
     border-style: solid;
     padding: 8px;
+    border-radius: 50%;
     
     
     
