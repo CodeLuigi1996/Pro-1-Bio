@@ -8,7 +8,8 @@
     background-color: li; */
 
 body {
-    background-color: lightcoral;
+    background: rgb(9,121,120);
+    background: linear-gradient(90deg, rgba(9,121,120,1) 16%, rgba(0,255,201,1) 86%);
 }
 #header {
     text-align: center;
