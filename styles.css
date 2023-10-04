@@ -34,9 +34,8 @@ body {
     padding: 8px;
     border-radius: 50%;
     text-decoration: none;
-    color: darkred;
     
-    
-    
-    
+}
+a:active {
+    color: purple;
 }
